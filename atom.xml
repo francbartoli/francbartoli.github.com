@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Il Blog degli appunti]]></title>
   <link href="http://francbartoli.github.com/atom.xml" rel="self"/>
   <link href="http://francbartoli.github.com/"/>
-  <updated>2012-06-20T11:47:55+02:00</updated>
+  <updated>2012-06-20T13:27:10+02:00</updated>
   <id>http://francbartoli.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Francesco Bartoli]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
